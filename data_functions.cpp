@@ -3,13 +3,17 @@
 void displayData(const std::vector<Entry>& entries) {
 
 }
-std::vector<Entry> sumAmount(const std::vector<Entry>& entries) {
+double sumAmount(const std::vector<Entry>& entries) {
+
+}
+double meanAmount(const std::vector<Entry>& entries) {
 
 }
 std::vector<Entry> getFromDateRange(const std::vector<Entry>& entries, std::string date1, std::string date2) {
 
 }
 std::vector<Entry> getOnDay(const std::vector<Entry>& entries, std::string date) {
+
 }
 std::vector<Entry> getFromLocation(const std::vector<Entry>& entries, std::string location) {
 
