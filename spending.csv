@@ -1,0 +1,157 @@
+Date,$ Spent,Store,Reason,Receipt?,Eligible?
+5/12/2024,50,Crossing,Housing,Yes,Yes
+8/15/2024,904,Crossing,Housing,Yes,Yes
+8/17/2024,72.38,Walmart,Grocery,Yes,Yes
+8/18/2024,7.45,Wendys,Eating Out,No,Yes
+8/18/2024,33.07,Walmart,Grocery,No,Yes
+8/19/2024,56.15,Walmart,Grocery,No,Yes
+8/19/2024,56,Bookstore,School,Yes,Yes
+8/19/2024,147.53,Bookstore,School,Yes,Yes
+8/22/2024,223.86,Class Fees,School,Yes,Yes
+8/22/2024,6.6,Class Fees,School,Yes,Yes
+8/25/2024,50.88,Walmart,Grocery,No,Yes
+8/26/2024,20.33,Norton,School,Yes,Yes
+8/30/2024,28,Walmart,Grocery,No,Yes
+9/1/2024,579,Crossing,Housing,Yes,Yes
+9/2/2024,25.3,Gators BTW,Eating Out,No,Yes
+9/3/2024,37,Walmart,Grocery,No,Yes
+9/6/2024,3.28,Shell,Gas,No,Yes
+9/6/2024,27.25,Shell,Gas,No,Yes
+9/9/2024,9.76,Dunkin,Eating Out,No,Yes
+9/9/2024,31.85,Shell,Gas,No,Yes
+9/9/2024,75,Walmart,Grocery,No,Yes
+9/10/2024,6.16,Walmart,Grocery,Yes,Yes
+9/14/2024,20,Gators BTW,Eating Out,No,Yes
+9/16/2024,76.73,Walmart,Grocery,No,Yes
+9/16/2024,13.5,Walmart,Grocery,Yes,Yes
+9/17/2024,20,Walmart,Other,Yes,Yes
+9/19/2024,17.7,Walmart,Grocery,Yes,Yes
+9/22/2024,70,Walmart,Grocery,Yes,Yes
+9/24/2024,10.77,Gators BTW,Eating Out,No,Yes
+9/26/2024,22.68,Subway,Eating Out,No,Yes
+9/26/2024,23.51,Walmart,Grocery,Yes,Yes
+9/27/2024,9.89,Publix,Grocery,Yes,Yes
+9/29/2024,4.61,Wendys,Eating Out,No,Yes
+9/29/2024,66.75,Walmart,Grocery,No,Yes
+10/1/2024,579,Crossing,Housing,Yes,Yes
+10/5/2024,16,Gators BTW,Eating Out,No,Yes
+10/5/2024,34,Cambridge,School,Yes,Yes
+10/8/2024,10.18,Burger King,Eating Out,No,Yes
+10/9/2024,6.01,Dunkin,Eating Out,No,Yes
+10/9/2024,11.45,Gators BTW,Eating Out,No,Yes
+10/9/2024,5,Pilot,Eating Out,No,Yes
+10/9/2024,6.21,Shell,Gas,No,Yes
+10/9/2024,10.6,Shell,Gas,No,Yes
+10/9/2024,5.76,Shell ,Gas,No,Yes
+10/9/2024,6.28,Sunoco,Gas,No,Yes
+10/14/2024,7.89,Dunkin,Eating Out,No,Yes
+10/14/2024,17.86,Circle K,Gas,No,Yes
+10/14/2024,23.76,Shell,Gas,No,Yes
+10/14/2024,77.21,Walmart,Grocery,Yes,Yes
+10/15/2024,1.06,Bookstore,School,No,Yes
+10/21/2024,71.83,Walmart,Grocery,Yes,Yes
+10/27/2024,25.7,Publix,Grocery,No,Yes
+10/27/2024,54.03,Crossing,Housing,Yes,Yes
+10/28/2024,105.02,Walmart,Grocery,Yes,Yes
+11/2/2024,579,Crossing,Housing,Yes,Yes
+11/4/2024,19.54,Gator BTW,Eating Out,No,Yes
+11/5/2024,32.26,Publix,Grocery,No,Yes
+11/6/2024,18.97,Walmart,Grocery,Yes,Yes
+11/11/2024,8.59,Dominos,Eating Out,Yes,Yes
+11/11/2024,21,Five Guys,Eating Out,Yes,Yes
+11/11/2024,65.8,Walmart,Grocery,No,Yes
+11/14/2024,39.48,Walmart,Grocery,Yes,Yes
+11/15/2024,8.59,Dominos,Eating Out,No,Yes
+11/16/2024,45.94,Publix,Grocery,No,Yes
+11/17/2024,67.67,Walmart,Grocery,Yes,Yes
+11/21/2024,13.5,Walmart,Grocery,No,Yes
+11/22/2024,8.59,Dominos,Eating Out,No,Yes
+11/29/2024,101.86,Crossing,Housing,Yes,Yes
+12/1/2024,6.01,Dunkin,Eating Out,Yes,Yes
+12/2/2024,13.05,Tacos 352,Eating Out,Yes,Yes
+12/2/2024,65.33,Walmart,Grocery,Yes,Yes
+12/2/2024,13,Walmart,Grocery,Yes,Yes
+12/2/2024,35,UF Intro,School,Yes,Yes
+12/3/2024,579,Crossing,Housing,Yes,Yes
+12/4/2024,4.18,Chick-fil-a,Eating Out,Yes,Yes
+12/5/2024,13,Tacos 352,Eating Out,Yes,Yes
+12/6/2024,15.77,Publix,Grocery,Yes,Yes
+12/9/2024,15.12,David's BBQ,Eating Out,Yes,Yes
+12/9/2024,10,Sonic,Eating Out,No,Yes
+12/9/2024,11.08,Publix,Grocery,Yes,Yes
+12/10/2024,17,Tacos 352,Eating Out,Yes,Yes
+12/12/2024,15,David's BBQ,Eating Out,Yes,Yes
+12/12/2024,1.81,Dunkin,Eating Out ,No,Yes
+12/12/2024,9.45,Dominos,Eating Out,Yes,Yes
+12/14/2024,57.17,Publix,Grocery,Yes,Yes
+12/16/2024,10.06,KFC,Eating Out,Yes,Yes
+12/16/2024,25.8,Shell,Gas,No,Yes
+12/16/2024,31.39,Shell,Gas,No,Yes
+12/26/2024,77.85,Crossing,Housing,Yes,Yes
+1/3/2025,6.04,Dunkin,Eating Out,Yes,Yes
+1/5/2025,14.59,Wendy's,Eating Out,Yes,Yes
+1/5/2025,26.35,Exxon,Gas,No,Yes
+1/5/2025,29.73,Shell,Gas,No,Yes
+1/5/2025,22.25,Trader Joes,Grocery,Yes,Yes
+1/7/2025,22,Applebees,Eating Out,Yes,Yes
+1/7/2025,34.72,Trader Joes,Grocery,Yes,Yes
+1/9/2025,123.96,Walmart,Grocery,Yes,Yes
+1/9/2025,90.38,Cengage,School,Yes,Yes
+1/9/2025,25,ExpertTA,School,Yes,Yes
+1/10/2025,26.95,Target,Grocery,Yes,Yes
+1/11/2025,8.59,Dominos,Eating Out,No,Yes
+1/12/2025,9.57,Publix,Grocery,Yes,Yes
+1/13/2025,16.95,Trader Joes,Grocery,Yes,Yes
+1/16/2025,69.2,Walmart,Grocery,Yes,Yes
+1/25/2025,70.6,Walmart,Grocery,Yes,Yes
+1/26/2025,1.81,Dunkin,Eating Out,Yes,Yes
+1/28/2025,17.7,Walmart,Grocery,Yes,Yes
+1/28/2025,22.42,Norton,School,Yes,Yes
+1/30/2025,9.99,Davids BBQ,Eating Out,Yes,Yes
+1/30/2025,4.92,Donut Connection,Eating Out,Yes,Yes
+1/30/2025,18.06,Tacos 352,Eating Out,Yes,Yes
+2/2/2025,10.84,Burger King,Eating Out,No,Yes
+2/3/2025,8.49,Jimmy Johns,Eating Out,Yes,Yes
+2/3/2025,12.22,Wendy's,Eating Out,Yes,Yes
+2/4/2025,11.24,Donut Connection,Eating Out,Yes,Yes
+2/4/2025,63.64,Walmart,Grocery,Yes,Yes
+2/6/2025,4.56,Donut Connection,Eating Out,Yes,Yes
+2/8/2025,15,Davids BBQ,Eating Out,Yes,Yes
+2/8/2025,5.84,Flatfish,Eating Out,Yes,Yes
+2/10/2025,7.79,Dunkin,Eating Out,Yes,Yes
+2/11/2025,10.74,Dominos,Eating Out,Yes,Yes
+2/12/2025,11.13,Chipotle,Eating Out,Yes,Yes
+2/13/2025,17.57,Germain's,Eating Out,Yes,Yes
+2/14/2025,4.92,Donut Connection,Eating Out,Yes,Yes
+2/14/2025,1,Santa Fe,School,No,Yes
+2/16/2025,11.07,Donut Connection,Eating Out,Yes,Yes
+2/16/2025,23.41,Raising Canes,Eating Out,Yes,Yes
+2/18/2025,7.71,Donut Connection,Eating Out,Yes,Yes
+2/18/2025,21.55,Trader Joes,Grocery,Yes,Yes
+2/18/2025,44,Walmart,Grocery,Yes,Yes
+2/20/2025,15.37,Cava,Eating Out,No,Yes
+2/21/2025,113.48,American ,Travel,Yes,No
+2/21/2025,3.66,Expedia,Travel,Yes,No
+2/21/2025,113.97,United,Travel,Yes,No
+2/23/2025,9.6,Dunkin,Eating Out,Yes,Yes
+2/25/2025,27,Paris Bakery,Eating Out,No,Yes
+2/25/2025,37.9,Trader Joe's,Grocery,Yes,Yes
+2/26/2025,110.85,Walmart,Grocery,Yes,Yes
+2/27/2025,57.95,Lexington Crossing,Housing,Yes,Yes
+3/1/2025,11.13,Chipotle,Eating Out,Yes,Yes
+3/1/2025,7.71,Donut Connection,Eating Out,Yes,Yes
+3/2/2025,8.4,Donut Connection,Eating Out,No,Yes
+3/2/2025,26.13,Trader Joes,Grocery,Yes,Yes
+3/4/2025,7.71,Donut Connection,Eating Out,Yes,Yes
+3/5/2025,49.95,Trader Joe's,Grocery,Yes,Yes
+3/6/2025,17.57,Germain's,Eating Out,No,Yes
+3/8/2025,30.41,Trader Joes,Grocery,Yes,Yes
+3/11/2025,5.57,Donut Connection,Eating Out,No,Yes
+3/12/2025,14.19,Chipotle,Eating Out,Yes,Yes
+3/13/2025,9.25,Chipotle,Eating Out,Yes,Yes
+3/13/2025,2.78,Shell,Grocery,No,Yes
+3/13/2025,7.71,Donut Connection,Eating Out,Yes,Yes
+3/14/2025,27.99,Shell,Gas,No,Yes
+3/14/2025,11.05,Spartan Gyros,Eating Out,Yes,Yes
+3/14/2025,13.21,Wendys,Eating Out,Yes,Yes
+,,,,,
