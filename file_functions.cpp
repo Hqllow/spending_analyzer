@@ -31,11 +31,15 @@ std::vector<Entry> readFile() {
 
 void addEntry(Entry newEntry) {
     std::ofstream file;
-    if (!file.open("spending.csv", std::ios::app) {
+    if (!file) {
       return;
     }
-    newEntry.receipt ? std::string receipt = "Yes" : "No";
-    newEntry.eligible ? std::string eligible = "Yes" : "No";
+
+    std::string receipt;
+    std::string eligible;
+    file.open("spending.csv", std::ios::app);
+    newEntry.receipt ? receipt = "Yes" : "No";
+    newEntry.eligibile ? eligible = "Yes" : "No";
     file << newEntry.date << "," << newEntry.amount << "," << newEntry.location << "," << newEntry.category << "," << receipt << "," << eligible <<std::endl;
     file.close();
 }

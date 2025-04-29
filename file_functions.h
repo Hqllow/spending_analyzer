@@ -3,4 +3,4 @@
 #pragma once
 
 std::vector<Entry> readFile();
-void addEntry(Entry newEntry)
+void addEntry(Entry newEntry);
