@@ -1,4 +1,7 @@
 build:
-	g++ -std=c++20 -o project1.out ./src/main.cpp
+	g++ -std=c++20 -o spending.out *.cpp
+clean:
+	rm *.out
+	rm *.exe
 run:
-	./project1.out
+	./spending.out help

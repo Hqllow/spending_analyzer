@@ -18,6 +18,22 @@ int main(int argc, char* argv[]) {
     std::cout << getHelpMessage() << std::endl;
   }
 
+  //Check for add command
+  else if (initCommand == "add") {
+    //check for correct length
+    if (argc < 8) {
+      std::cerr << "Please provide all fields for the 'add' command. See 'help command for more details." << std::endl;
+      return -3;
+    }
+    //basic check for correct date
+    if (!(std::string(argv[2]).size() == 10 && std::string(argv[2]).at(4) == '-' && std::string(argv[2]).at(7) == '-')) {
+      std::cerr << "Incorrect date format. Please try again in YYYY-MM-DD format." << std::endl;
+      return -4;
+    }
+    addEntry(Entry(argv[2], stod(std::string(argv[3])), argv[4], argv[5], std::string(argv[6]) == "Yes", std::string(argv[7]) == "Yes"));
+    std::cout << "Item successfully added!" << std::endl;
+  }
+
   //Check for categories command
   else if (initCommand == "categories") {
     getCategories(entries);
