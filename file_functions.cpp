@@ -12,6 +12,8 @@ std::vector<Entry> readFile() {
 
     std::string line;
     std::vector<Entry> items;
+    //Remove first line
+    std::getline(file, line);
     while (std::getline(file, line)) {
         std::vector<std::string> row;
         std::istringstream ss(line);
@@ -19,6 +21,10 @@ std::vector<Entry> readFile() {
 
         while (std::getline(ss, value, ',')) {
             row.push_back(value);
+        }
+
+        if (row.size() < 6) {
+            continue;
         }
         bool receipt = row[4] == "Yes";
         bool eligible = row[5] == "Yes";
