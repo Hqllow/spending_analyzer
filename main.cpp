@@ -1,11 +1,9 @@
 #include <iostream>
-#include "entry.h"
-#include "file_functions.h"
-#include "data_functions.h"
+#include "./util/entry.h"
+#include "./functions/file_functions.h"
+#include "./functions/data_functions.h"
 
 int main(int argc, char* argv[]) {
-  std::vector<Entry> entries = readFile();
-
   //Check if no arguments are given
   if (argc <= 1) {
     std::cerr << "Provide more arguments. See 'help' command for more details." << std::endl;
@@ -36,16 +34,19 @@ int main(int argc, char* argv[]) {
 
   //Check for categories command
   else if (initCommand == "categories") {
+    std::vector<Entry> entries = readFile();
     getCategories(entries);
   }
 
   //Check for locations command
   else if (initCommand == "locations") {
+    std::vector<Entry> entries = readFile();
     getLocations(entries);
   }
 
   //Check for display command, uses filterEntries function to trim based on following commands.
   else if (initCommand == "display") {
+    std::vector<Entry> entries = readFile();
     if (argc <= 2) {
       std::cerr << "Please specify entries for 'display'. Use 'all' to include all entries." << std::endl;
       return -3;
@@ -61,6 +62,7 @@ int main(int argc, char* argv[]) {
 
   //Check for sum command, uses filterEntries function to trim based on following commands.
   else if (initCommand == "sum") {
+    std::vector<Entry> entries = readFile();
     if (argc <= 2) {
       std::cerr << "Please specify entries for 'sum'. Use 'all' to include all entries." << std::endl;
       return -3;
@@ -76,6 +78,7 @@ int main(int argc, char* argv[]) {
 
   //Check for average command, uses filterEntries function to trim based on following commands.
   else if (initCommand == "average") {
+    std::vector<Entry> entries = readFile();
     if (argc <= 2) {
       std::cerr << "Please specify entries for 'average'. Use 'all' to include all entries." << std::endl;
       return -3;

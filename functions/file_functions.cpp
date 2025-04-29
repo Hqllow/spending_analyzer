@@ -2,10 +2,10 @@
 #include <fstream>
 #include <sstream>
 #include <vector>
-#include "entry.h"
+#include "../util/entry.h"
 
 std::vector<Entry> readFile() {
-    std::ifstream file("spending.csv");
+    std::ifstream file("./util/spending.csv");
     if (!file) {
         return {};
     }
@@ -43,9 +43,9 @@ void addEntry(Entry newEntry) {
 
     std::string receipt;
     std::string eligible;
-    file.open("spending.csv", std::ios::app);
+    file.open("./util/spending.csv", std::ios::app);
     newEntry.receipt ? receipt = "Yes" : "No";
     newEntry.eligibile ? eligible = "Yes" : "No";
-    file << newEntry.date << "," << newEntry.amount << "," << newEntry.location << "," << newEntry.category << "," << receipt << "," << eligible <<std::endl;
+    file << "\n" << newEntry.date << "," << newEntry.amount << "," << newEntry.location << "," << newEntry.category << "," << receipt << "," << eligible <<std::endl;
     file.close();
 }

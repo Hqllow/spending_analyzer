@@ -1,5 +1,5 @@
 #include <vector>
-#include "entry.h"
+#include "../util/entry.h"
 #pragma once
 
 std::vector<Entry> readFile();
